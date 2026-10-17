@@ -1,0 +1,116 @@
+{
+  "bar-snacks": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 4901860,
+    "placeholderBytes": 9898
+  },
+  "bar": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 8285464,
+    "placeholderBytes": 13648
+  },
+  "charcoal": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 5901362,
+    "placeholderBytes": 13262
+  },
+  "cold-press-juices": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 1089978,
+    "placeholderBytes": 3752
+  },
+  "dimsum-bao": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 2339834,
+    "placeholderBytes": 5508
+  },
+  "first-course": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 2504708,
+    "placeholderBytes": 5162
+  },
+  "food": {
+    "frameCount": 78,
+    "holdFrame": 39,
+    "sizeBytes": 5757542,
+    "placeholderBytes": 12548
+  },
+  "nonveg-mains": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 6635962,
+    "placeholderBytes": 13472
+  },
+  "nonveg-starters": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 2933482,
+    "placeholderBytes": 6626
+  },
+  "pasta-risotto": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 4538742,
+    "placeholderBytes": 9496
+  },
+  "pizza": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 2633206,
+    "placeholderBytes": 5902
+  },
+  "refreshers": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 1859614,
+    "placeholderBytes": 5108
+  },
+  "sides": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 3294398,
+    "placeholderBytes": 7328
+  },
+  "soft-beverages": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 2252370,
+    "placeholderBytes": 5558
+  },
+  "staples": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 4541702,
+    "placeholderBytes": 7502
+  },
+  "sushi-bar": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 5050946,
+    "placeholderBytes": 10784
+  },
+  "sweet-ending": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 4141994,
+    "placeholderBytes": 8504
+  },
+  "veg-mains": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 5441196,
+    "placeholderBytes": 12196
+  },
+  "veg-starters": {
+    "frameCount": 96,
+    "holdFrame": 48,
+    "sizeBytes": 3395510,
+    "placeholderBytes": 7574
+  }
+}
